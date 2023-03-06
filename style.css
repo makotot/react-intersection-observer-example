@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+h1,
+p {
+  font-family: Lato;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
